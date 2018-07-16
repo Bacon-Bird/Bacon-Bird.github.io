@@ -1,0 +1,120 @@
+﻿//All Classifications of 1v1 Pokemon {Contributors: VG Jungle (My man), }  
+Index: (WC) = Want Classification from others
+
+S Tier
+Gyarados: Standard
+
+A+ Tier
+Charizard-Mega-X: Power
+Charizard-Mega-Y: Fast
+Dragonite: Fast
+Magearna: Technical
+Metegross-Mega: Power
+Mimikyu: Technical
+
+A Tier
+Landorus-T: Power
+Tapu-Lele: Fast 
+Snorlax: Technical 
+Zygarde-C: Technical 
+Lopunny-Mega: Fast 
+Magnezone: Fast
+Porygon-Z: Fast 
+Slowbro-Mega: Technical
+Venusaur-Mega: Technical
+
+B+ Tier
+Aegislash: Fast 
+Altaria-Mega: Technical
+Aggron-Mega: Technical
+Donphan: Fast
+Gardevoir-Mega: Fast
+Genesect: Fast
+Golem: Fast
+Greninja: Fast
+Jumpluff: Technical 
+Meloetta: Fast
+Naganadel: Fast
+Pinsir-Mega: Fast
+Primarina: Technical
+Tapu Fini: Technical 
+
+B Tier
+Blaziken: Power
+Chansey: Technical
+Ferrothorn: Technical
+Garchomp: Fast 
+Heatran: Technical 
+Heracross-Mega: Power 
+Kartana: Fast 
+Mawile-Mega: Power
+Mew: Standard 
+Necrozma: Standard  
+Sableye-Mega: Technical
+Sawk: Fast
+Tyranitar-Mega: Power
+
+B- Tier
+Blastoise-Mega: Technical (WC)
+Blissey: Technical
+Buzzwole: (WC)
+Celesteela: Technical
+Crustle: Fast (WC)
+Diancie-Mega: Power
+Durant: Fast (WC)
+Gengar-Mega: Technical
+Hoopa-Unbound: Fast
+Kommo-o: Power (WC)
+Swampert-Mega: Technical
+Togekiss: Technical
+Volcorona: Technical 
+
+C+ Rank:
+Archeops: Fast
+Avalugg: Technical  
+Camerupt-Mega: Technical  
+Carracosta: Fast
+Deoxys-Speed: Technical
+Excadrill: Standard 
+Gallade-Mega: Fast
+Latios:  Fast
+Lucario-Mega: Power
+Marowak-Alola: Power
+Medicham-Mega: Power
+Pheromosa: Fast
+Porygon2: Technical
+Scizor-Mega: Power
+Tapu-Bulu:  Fast (WC)
+Terrakion: Fast (WC)
+Umbreon: Technical
+Victini: Fast
+Vivillion: Technical
+
+C Rank:
+Cloyester: Technical
+Ninetails-Alola: Technical
+Pyukumuku: Technical
+Quagsire: Technical
+Rhyperior: Technical
+Serperior: Power
+Salazzle: Technical
+Skarmory: Fast
+Suicune: Technical
+
+D Rank:
+Abomasnow-Mega: Power (WC)
+Alakazam-Mega: Fast 
+Aron: Fast
+Azumarill: Power
+Barbaracle: Power
+Breloom: Technical 
+Clefable: Technical 
+Dusclops: Technical
+Manetric-Mega: Fast
+Sceptile-Mega: Fast
+Slaking: Fast
+Smeargle: Technical
+Stunfisk: Technical
+Type:Null: Technical
+Volcanion: Technical
+
