@@ -17,8 +17,9 @@
 <body>
     <h1>1v1 Teambuilder</h1>
     <p class="Beginning">Greetings, What is your current skill level?</p>
+    <a href="#welcome">
     <!--New = Elo Bandit Vid and general Resources-->
-    <a href="#welcome"><button id="new">Just introduced to this metagame</button></a>
+    <button id="new">Just introduced to this metagame</button>
     <!--Simple = New VR explanation and Teambuilding advice-->
     <button id="simple">Novice 1v1'er</button>
     <button id="simple">Apprentice 1v1'er</button>
@@ -32,15 +33,18 @@
     <button id="oof">Top Percent Memer 1v1'er</button>
     <!--exceptions = Add Sarcastic Messages-->
     <button id="exceptions">I prefer not to answer to myself</button>
+        </a>
     
 <!--Edited based on answer-->
-    <p id="welcome"></p>
+    <div id="welcome"></div>
     <script>
+        //Make sure to refactor this function
     $(document).ready(function() {
         $("#new").click(function() {
-            $("#welcome").html('Most likely your own curiosity, Elo Bandit, or our recent Public Room improvement led you here to 1v1s. This metagame is fun and is full of surprises our 1v1 chat room is relatively friendly and our staff are dedicated to making discussion and playing 1v1s better for the future. Throw a 3 man team with your favorite pokemon and try to get yourself as high as possible on ladder.');
+            $("#welcome").html('<p>Most likely your own curiosity, Elo Bandit, or our recent Public Room improvement led you here to 1v1s. This metagame is fun and is full of surprises our 1v1 chat room is relatively friendly and our staff are dedicated to making discussion and playing 1v1s better for the future. Throw a 3 man team with your favorite pokemon and try to get yourself as high as possible on ladder.</p>');
     });
 }); 
+        //<h3>Reminder</h3> <ul>Bans</ul> <li>Pokémon: Arceus, Darkrai, Deoxys-Attack, Deoxys-Defense, Deoxys-Normal, Dialga, Giratina, Groudon, Ho-Oh, Jirachi, Kyogre, Kyurem-Black, Kyurem-White, Lugia, Lunala, Marshadow, Mega Kangaskhan (Kangaskhanite), Mega Salamence (Salamencite), Mewtwo, Necrozma-Dawn-Wings, Necrozma-Dusk-Mane, Palkia, Rayquaza, Reshiram, Shaymin-Sky, Solgaleo, Tapu Koko, Xerneas, Yveltal, Zekrom</li> <li>Items: Focus Sash Moves: Perish Song</li>
     </script>
 </body>
 
