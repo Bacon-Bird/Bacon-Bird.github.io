@@ -1,17 +1,47 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>1v1 Welcome</title>
     <style>
-        p {
-            color: peru;
+        .Beginning {
+            color: black;
             font-size: 20px;
         }
-    </style>
-</head>
 
+    </style>
+    <script src="/node_modules/jQuery/tmp/jquery.js"></script>
+</head>
+    
+<!--This is the Greet Message-->
 <body>
     <h1>1v1 Teambuilder</h1>
-    <p>You should see this message at the start of your team building journey</p>
+    <p class="Beginning">Greetings, What is your current skill level?</p>
+    <!--New = Elo Bandit Vid and general Resources-->
+    <a href="#welcome"><button id="new">Just introduced to this metagame</button></a>
+    <!--Simple = New VR explanation and Teambuilding advice-->
+    <button id="simple">Novice 1v1'er</button>
+    <button id="simple">Apprentice 1v1'er</button>
+    <!--Normal = VR Explanation + 1v1 Checklist explanation-->
+    <button id="Normal">Expert 1v1'er</button>
+    <button id="Normal">Tryhard 1v1'er</button>
+    <!--Elaborate = Elaborate VR explanation  + 1v1 Checklist + Why you should use this guide-->
+    <button id="Elaborate">Master 1v1'er</button>
+    <button id="Elaborate">Veteran 1v1'er</button>
+    <!--oof = Add Funny Message-->
+    <button id="oof">Top Percent Memer 1v1'er</button>
+    <!--exceptions = Add Sarcastic Messages-->
+    <button id="exceptions">I prefer not to answer to myself</button>
+    
+<!--Edited based on answer-->
+    <p id="welcome"></p>
+    <script>
+    $(document).ready(function() {
+        $("#new").click(function() {
+            $("#welcome").html('Most likely your own curiosity, Elo Bandit, or our recent Public Room improvement led you here to 1v1s. This metagame is fun and is full of surprises our 1v1 chat room is relatively friendly and our staff are dedicated to making discussion and playing 1v1s better for the future. Throw a 3 man team with your favorite pokemon and try to get yourself as high as possible on ladder.');
+    });
+}); 
+    </script>
 </body>
+
 </html>
